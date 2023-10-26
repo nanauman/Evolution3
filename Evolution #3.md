@@ -18,4 +18,4 @@
 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evolution #4: Network and Cyber Security:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software plays a major role in security, not only providing the security itself but also being used to monitor network layout, firewalls, and locate any potential threats or vulnerabilities  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software plays a major role in security, being used to monitor network layout, firewalls, locate any potential threats or vulnerabilities and assist in securing and encrypting communications. All networking and cyber security activities would be virtually nonexistent without the use of software. Ironically softwares(networking and otherwise) are the source of most potential threats and vulnerabilities, but then using softwares is also the best way to protect against those threats. Security softwares would also include any software that helps create roles and secure logins and permissions. 
